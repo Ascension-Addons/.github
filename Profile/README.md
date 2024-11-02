@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://api.ascension.gg/assets/082e6771349c1747ebb5.webp">
+  <img src="AscensionLogo.png">
 </p>
 
 # Ascension Addons
